@@ -1,0 +1,20 @@
+{
+  "name": "laguna.be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.0",
+    "moment-timezone": "^0.5.14",
+    "mongodb": "^3.0.5",
+    "mongoose": "^5.0.12",
+    "pdf2json": "^1.1.7",
+    "request": "^2.85.0",
+    "x-ray": "^2.3.2"
+  }
+}
