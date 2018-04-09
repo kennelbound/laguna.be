@@ -1,5 +1,5 @@
 const source = "http://www.lagunabeachcity.net/cityhall/police/daily_police_log.htm";
-const Event = require('./Event');
+const Event = require('./incident');
 
 function updateEvents() {
     let Xray = require('x-ray');
